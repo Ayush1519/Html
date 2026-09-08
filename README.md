@@ -1,5 +1,4 @@
-# Html
-HTML Forms & Resume Profile
+# HTML Forms & Resume Profile
 
 This repository contains a few simple HTML files created for practice and demonstration.
 
